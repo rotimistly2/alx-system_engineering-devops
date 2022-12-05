@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/pwasswd /etc/hosts
+cat /etc/pwasswds/etc/host
